@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* Set background color for the entire body */
+body {
+    background-color: powderblue;
+}
+
+/* Style the heading (h1) */
+h1 {
+    color: blue;
+}
+
+/* Style paragraphs (p) */
+p {
+    color: red;
+}

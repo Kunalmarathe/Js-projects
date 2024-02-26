@@ -1,0 +1,15 @@
+/* Add your desired styling here */
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 200px; /* Adjust as needed */
+    margin: 0 auto;
+}
+.input {
+    width: 40px; /* Adjust as needed */
+    height: 40px; /* Adjust as needed */
+    font-size: 18px; /* Adjust as needed */
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
